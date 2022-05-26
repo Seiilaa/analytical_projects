@@ -6,10 +6,10 @@
 - Found the necessary amount of each resource required to progress in the game.
 - Calculated relative cost of the resources using the time players need to mine the amount of resource determined in the previous step. 
 - Visualized the findings, made a conclusion and recommendations for the in-game economy.
-- 
+-  
 ## Code and resources used
 
-**Python Version:** 3.9.12
+**Python Version:** 3.9.12\
 **Packages:** pandas, numpy, scipy, statistics, matplotlib, seaborn
 
 ## Data description
