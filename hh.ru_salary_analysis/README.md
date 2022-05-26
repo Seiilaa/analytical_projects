@@ -7,5 +7,5 @@
 ## Code and resources used
 
 **Python Version:** 3.7  
-**Packages:** pandas, BeautifulSoup, requests, numpy, seaborn, matplotlib
+**Packages:** pandas, BeautifulSoup, requests, numpy, seaborn, matplotlib\
 Scraper Github: https://github.com/pashaapsky/hh.ru_parser/blob/master/hh_apsky.py
